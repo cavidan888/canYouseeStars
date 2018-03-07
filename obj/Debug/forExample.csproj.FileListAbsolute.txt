@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\forExample\forExample\bin\Debug\forExample.exe.config
+C:\Users\user\source\repos\forExample\forExample\bin\Debug\forExample.exe
+C:\Users\user\source\repos\forExample\forExample\bin\Debug\forExample.pdb
+C:\Users\user\source\repos\forExample\forExample\obj\Debug\forExample.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\forExample\forExample\obj\Debug\forExample.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\forExample\forExample\obj\Debug\forExample.exe
+C:\Users\user\source\repos\forExample\forExample\obj\Debug\forExample.pdb
